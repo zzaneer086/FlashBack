@@ -21,7 +21,7 @@ memory game experience.</li>
     <img height=200 align="center" src="light_animation.gif"  />
   </a>
   <a href="">
-    <img height=200 align="center" src="circuit_img.png"  />
+    <img height=200 align="center" src="circuit_img.jpeg"  />
   </a>
   <a href="">
     <img height=200 align="center" src="FlashBack circuit view.png"  />
